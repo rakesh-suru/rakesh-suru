@@ -22,8 +22,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,linux,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,sql,git,github,linux,pytorch,tensorflow,flask" />
 </p>
+
 
 ---
 
