@@ -34,13 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-suru&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-suru&layout=compact&theme=tokyonight)
-
----
 
 ### 🚀 Projects
 
