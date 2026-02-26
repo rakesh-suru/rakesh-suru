@@ -22,7 +22,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,linux,pytorch,tensorflow,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,linux,pytorch,tensorflow,flask,fastapi,pydantic,matplotlib,pandas,numpy,seaborn,requests" />
 </p>
 
 
